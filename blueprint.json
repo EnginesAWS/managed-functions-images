@@ -1,0 +1,18 @@
+{
+	"identifier": "managed-functions-registry",
+	"about": {
+		"title": "Managed Functions",
+		"explanation": "A binder blueprint for the Managed Functions registry"
+	},
+	"bindings": [
+		{
+			"type": "configure",
+			"target": {
+				"repository": "https://github.com/enginesAWS/container-registry"
+			},
+      "configuration": {
+        "image_tag_mutability" = "IMMUTABLE"
+      }
+		}
+	]
+}
