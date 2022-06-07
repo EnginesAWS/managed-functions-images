@@ -10,9 +10,9 @@
 			"target": {
 				"repository": "https://github.com/enginesAWS/container-registry"
 			},
-      "configuration": {
-        "image_tag_mutability" = "IMMUTABLE"
-      }
+			"configuration": {
+				"image_tag_mutability": "IMMUTABLE"
+			}
 		}
 	]
 }
