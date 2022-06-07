@@ -1,2 +1,2 @@
-# Managed Functions Images
-A binder blueprint for the Managed Functions images
+# Managed Functions Registry
+A binder blueprint for the Managed Functions registry
